@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ft/MDaocpJU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ya256\\source\\repos\\X O Game\\X O Game\\X O Game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ya256\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\ya256\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\ya256\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

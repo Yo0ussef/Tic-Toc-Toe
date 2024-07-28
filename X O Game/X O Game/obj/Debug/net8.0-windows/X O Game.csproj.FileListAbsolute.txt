@@ -1,0 +1,24 @@
+C:\Users\ya256\source\repos\X O Game\X O Game\bin\Debug\net8.0-windows\X O Game.exe
+C:\Users\ya256\source\repos\X O Game\X O Game\bin\Debug\net8.0-windows\X O Game.deps.json
+C:\Users\ya256\source\repos\X O Game\X O Game\bin\Debug\net8.0-windows\X O Game.runtimeconfig.json
+C:\Users\ya256\source\repos\X O Game\X O Game\bin\Debug\net8.0-windows\X O Game.dll
+C:\Users\ya256\source\repos\X O Game\X O Game\bin\Debug\net8.0-windows\X O Game.pdb
+C:\Users\ya256\source\repos\X O Game\X O Game\bin\Debug\net8.0-windows\Guna.UI2.dll
+C:\Users\ya256\source\repos\X O Game\X O Game\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\ya256\source\repos\X O Game\X O Game\bin\Debug\net8.0-windows\runtimes\win\lib\net7.0\System.Management.dll
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.csproj.AssemblyReference.cache
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X_O_Game.Properties.Resources.resources
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.csproj.GenerateResource.cache
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.AssemblyInfoInputs.cache
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.AssemblyInfo.cs
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.csproj.CoreCompileInputs.cache
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.csproj.Up2Date
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.dll
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\refint\X O Game.dll
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.pdb
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X O Game.genruntimeconfig.cache
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\ref\X O Game.dll
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X_O_Game.X_O.FrmMain.resources
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X_O_Game.X_O.FrmOnePlayer.resources
+C:\Users\ya256\source\repos\X O Game\X O Game\obj\Debug\net8.0-windows\X_O_Game.X_O.FrmTwoPlayers.resources
